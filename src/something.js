@@ -1,1 +1,1 @@
-const doSomething = () => '42 is the answer to life'
+const doSomething = (uselessParam) => '42 is the answer to life'
