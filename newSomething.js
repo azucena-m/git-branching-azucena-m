@@ -1,0 +1,1 @@
+const createSomething = () => () => 'does something' //closure function
