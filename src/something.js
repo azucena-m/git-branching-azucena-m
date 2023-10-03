@@ -1,0 +1,1 @@
+const doSomething = () => '42 is the answer to life'
